@@ -1,4 +1,4 @@
-an AI to identify which traffic sign appears in a photograph, using a tensorflow convolutional neural network.
+# an AI to identify which traffic sign appears in a photograph, using a tensorflow convolutional neural network.
 
 ## Background:
 
